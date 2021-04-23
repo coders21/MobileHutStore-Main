@@ -1,0 +1,114 @@
+
+
+.sale-arrivals {
+    .title{
+        width: 100%;
+    }
+    .count-down-timer{
+        // margin-left: 5em;
+        width: 18em;
+        
+    }   
+}
+
+.header-top {
+    .header-left a{
+        margin-right: 2.6rem;
+    }
+}
+
+.deal-countdown .countdown-section {
+    background-color: #B22222;
+}
+
+.product-price{
+    .intro-old-price{
+        color: black;
+        font-size: 12px;
+        margin-right: 5px;
+    }
+}
+
+#map:nth-child(3) {
+    height: auto !important;
+}
+
+.login-button{
+
+    color: #333 !important;
+    font-weight: 300 !important;
+    font-size: 1.4rem !important;
+    line-height: 1.5 !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center !important;
+    padding: .85rem 1rem !important;
+    border: .1rem solid #ebebeb !important;
+    width: 100% !important;
+
+}
+
+.google-login{
+
+    color: #333 !important;
+    font-weight: 300 !important;
+    font-size: 1.4rem !important;
+    line-height: 1.5 !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center !important;
+    padding: .85rem 1rem !important;
+    border: .1rem solid #ebebeb !important;
+    width: 100% !important;
+    box-shadow: none !important;
+
+}
+
+.facebook-login{
+    color: black !important;
+    font-weight: 300 !important;
+    font-size: 1.4rem !important;
+    line-height: 1.5 !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center !important;
+    padding: 1.85rem 1rem !important;
+    border: .1rem solid #ebebeb !important;
+    width: 100% !important;
+    box-shadow: none;
+    i{
+        margin-right: 12px;
+        font-size: 18px;
+    }
+}
+
+#product-quickview{
+    top: 20px !important;
+    transform: none !important;
+}
+
+.select-model{
+    display: inline-block;
+    width: auto;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem 1.75rem .375rem .75rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin-top: -5px;
+    line-height: 1.5;
+    color: #495057;
+    vertical-align: middle;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+}
+
+.color-active{
+    margin-top: -15px;
+    margin-right: -17px;
+    display: block;
+    color: maroon;
+}
